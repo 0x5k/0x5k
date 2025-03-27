@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @0x5k
-- 👀 I’m interested in cybersecurity, networking, and embedded programming and lock-picking
+- 👀 I’m interested in cybersecurity, networking, embedded programming and lock-picking
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me - don't
 - ⚡ Fun fact: i can solve rubik's cube under 30 seconds 
